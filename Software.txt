@@ -1,0 +1,1 @@
+This project is simulated and developed under Proteus 8.9 software. Therefore, it is suggested to run this file on at least proteus 8.9 or above. Happy simulation!
